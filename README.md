@@ -5,11 +5,13 @@
 ## Lab 1
 
 ### App Description
-`TODO://` Add app description
+This is a simple flash card app written in Java. The user 
+is prompted with the question "Who is the 44th President of The United States". They can answer in their head then click the screen to reveal the answer.
 
 ### App Walk-though
-/Users/mathiasroy/Downloads/ezgif.com-gif-maker (1).gif
+
 <img src="YOUR_GIF_URL_HERE" width=200><br>
+![](https://i.imgur.com/Ad3see9.gif)
 
 
 ## Required
