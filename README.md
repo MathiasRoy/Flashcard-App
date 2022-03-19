@@ -4,7 +4,7 @@
 Added extra functionality to existing flashcard app so users can create new flashcards right from the app. Whenever you want to study something new you can just create a new flashcard!
 
 ### App Walk-though
-`TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
+
 <img src=(https://user-images.githubusercontent.com/96403685/159142143-36ec6a6a-f9be-4d72-bac1-cdf7b4cd1a6f.gif) width=200><br>
 
 
