@@ -5,8 +5,9 @@ Added extra functionality to existing flashcard app so users can create new flas
 
 ### App Walk-though
 
-<img src=(https://user-images.githubusercontent.com/96403685/159142143-36ec6a6a-f9be-4d72-bac1-cdf7b4cd1a6f.gif) width=200><br>
 
+
+![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/96403685/159142203-969f9180-a7ad-44e3-bed0-367b70f41e77.gif)
 
 
 
