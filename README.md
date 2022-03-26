@@ -6,7 +6,8 @@ Added the functionality lab to let the flashcard app be able save multiple user 
 ### App Walk-though
 `TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
 
-<img src="YOUR_GIF_URL_HERE" width=200><br>
+<img src="YOUR_GIF_URL_HERE" width=200><br>![ezgif com-gif-maker (4)](https://user-images.githubusercontent.com/96403685/160217661-5e774a57-9568-48d7-a353-44442afdaee6.gif)
+
 
 `TODO://` In the User stories section below, add an `x` between the `-[ ]` like this `- [x]` for any user story you complete. (☝️ Remove this paragraph after after checking off user stories)
 
