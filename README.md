@@ -5,8 +5,7 @@ Added the functionality lab to let the flashcard app be able save multiple user 
 
 ### App Walk-though
 
-<img src="YOUR_GIF_URL_HERE" width=200><br>![ezgif com-gif-maker (6)](https://user-images.githubusercontent.com/96403685/160241769-8f492dd6-878c-4c84-8e83-c99e3458b404.gif)
-
+<img src="YOUR_GIF_URL_HERE" width=200><br> ![ezgif com-gif-maker (7)](https://user-images.githubusercontent.com/96403685/160269027-8aa12dd9-0706-494e-8e0d-595a05bec424.gif)
 
 
 ## Required
