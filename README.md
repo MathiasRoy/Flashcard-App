@@ -2,7 +2,7 @@
 
 ### App Description
 Added animations to the app when switching from MainActivity to AddCardActivity, when an answer is revealed, and when advancing to the next card in 
-the set of cards. Futhermore, the launcher for the app was customized
+the set of cards. Futhermore, the launcher for the app was customized.
 
 ### App Walk-though
 `TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
