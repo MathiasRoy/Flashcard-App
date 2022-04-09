@@ -5,11 +5,7 @@ Added animations to the app when switching from MainActivity to AddCardActivity,
 the set of cards. Futhermore, the launcher for the app was customized.
 
 ### App Walk-though
-`TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
-
-<img src="YOUR_GIF_URL_HERE" width=200><br>
-
-`TODO://` In the User stories section below, add an `x` between the `-[ ]` like this `- [x]` for any user story you complete. (☝️ Remove this paragraph after after checking off user stories)
+![ezgif com-gif-maker (11)](https://user-images.githubusercontent.com/96403685/162555532-4637e771-a3bf-4d5c-81b6-80cc4af653cc.gif)
 
 ## Required
 - [x] User sees a transition animation when going from the main screen to the add card screen.
